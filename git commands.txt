@@ -1,0 +1,20 @@
+git status
+git commit -m 'here comes a explanation what has changed'
+git checkout branchename
+git checkout master
+git add .                 (to commit all files)
+git push
+
+
+
+#Clone a project from remote to local
+Make a new folder, open GITBash (from explorer) and execute this command:
+git clone URLtothegitfileongithub.github
+git clone https://github.com/webmindz/myappsample.git
+
+
+
+
+
+
+touch testfile.txt        (to create a new file)
